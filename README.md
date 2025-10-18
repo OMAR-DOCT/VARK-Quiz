@@ -1,2 +1,1 @@
-# VARK-Quiz
-quiz vark
+// README.md placeholder
